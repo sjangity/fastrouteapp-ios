@@ -7,8 +7,8 @@ The idea behind Fastroute is to make an app that recommends the best route betwe
 ### Flow Overview
 
 ![Flow](https://fastrouteapp.com/img/screenshot-1.jpg)
-![Flow](https://fastrouteapp.com/img/screenshot-2.jpg)
 ![Flow](https://fastrouteapp.com/img/screenshot-3.jpg)
+![Flow](https://fastrouteapp.com/img/screenshot-2.jpg)
 
 ### Migrating from Objective-C to Swift
 
